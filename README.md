@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ajanya Vinayan</h1>
-<h3 align="center">MCA Student | Aspiring Data Analyst</h3>
+<h3 align="center">MCA Student | Aspiring Data & AI Engineer</h3>
 
 <p align="center">
-  📊 Passionate about Data Analysis & Visualization <br>
-  🚀 Working on real-world data projects
+  📊 Passionate about Data Analytics, AI & Technology <br>
+  🚀 Building projects and exploring real-world applications
 </p>
 
 ---
 
 ## ✨ About Me
-- 🎓 MCA Student at Christ University  
-- 📊 Interested in Data Analysis & Visualization, Web Development  
-- 🎯 UI Design  
+- 🎓 MCA Student at CHRIST University, Bengaluru
+- 📊 Interested in Data Analytics, Data Visualization, Software Engineering & AI/ML
+- 💻 Passionate about Python development and data-driven solutions
+- 🤖 Exploring Machine Learning, Generative AI & AI Agent Development
+- 🎨 Interested in UI/UX Design and creating user-friendly applications
+- 🌱 Always learning and building projects
 
 ---
 
@@ -27,7 +30,20 @@
   <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
   <img src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikit-learn"/>
   <img src="https://img.shields.io/badge/NLTK-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 </p>
+
+---
+
+## 📌 Projects
+- 📊 Netflix OTT Analytics Dashboard
+- 🎵 Spotify Music Trend Analysis & Data Pipeline
+- 🌍 Xplora – Kerala Tourism Chatbot
+- 🏙️ Smart City Complaint Analytics System
 
 ---
 
